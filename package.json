@@ -21,7 +21,7 @@
     "@types/mocha": "2.2.38",
     "codecov": "1.0.1",
     "diff": "3.2.0",
-    "eslint": "3.14.1",
+    "eslint": "7.6.0",
     "eslint-plugin-promise": "3.4.0",
     "is-ci": "1.0.10",
     "karma": "^1.4.0",
